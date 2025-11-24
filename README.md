@@ -1,10 +1,12 @@
+**Image Resizer Tool**
+
 This project is a batch Image Resizer tool built using Python. It resizes all images inside a selected input folder and saves the processed images into an output folder. It is useful for preparing images for web uploads, compression, or standardizing resolution across a dataset.
 
-- Objective
+- **Objective**
 
   Resize and convert multiple images in batch using Python and Pillow.
 
-- Features
+- **Features**
 
   Resize all images in a folder
 
@@ -16,7 +18,7 @@ This project is a batch Image Resizer tool built using Python. It resizes all im
 
   Easy to customize the target size
 
-- Tools & Libraries
+- **Tools & Libraries**
 
   Python
 
@@ -24,13 +26,13 @@ This project is a batch Image Resizer tool built using Python. It resizes all im
 
   OS module
 
-- Installation
+- **Installation**
 
   Install Pillow library:
 
       pip install pillow
 
-- How to Use
+- **How to Use**
 
   Place your input images inside the input_images folder.
 
